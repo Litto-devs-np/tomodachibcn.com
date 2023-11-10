@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2378f1"],{fc42:function(n,c,a){"use strict";a.r(c);var s=a("7a23");const t=["src"];function e(n,c){return Object(s["u"])(),Object(s["f"])("img",{class:"image-section",loading:"lazy",src:a("3a63"),alt:"tomodachi sushi resturant menu image"},null,8,t)}var i=a("6b0d"),o=a.n(i);const r={},u=o()(r,[["render",e]]);c["default"]=u}}]);
+//# sourceMappingURL=chunk-2d2378f1.fea08c44.js.map
